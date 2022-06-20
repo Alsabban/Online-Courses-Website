@@ -1,3 +1,3 @@
-# Online-Courses-Website
-## Coursopolis Online
+# Online-Courses-Website - Coursopolis Online Center
+
 
