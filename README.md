@@ -9,4 +9,6 @@
  
  - Type in any browser this URL http://localhost/'YOUR_PATH'/index.php to start the website
  
+ - This is the home webpage when you start the website
+![image info](./assets/img/homepage.jpeg)
 
