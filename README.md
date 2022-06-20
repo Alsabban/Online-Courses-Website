@@ -12,3 +12,13 @@
  # This is the home webpage when you start the website
 ![image info](./assets/img/homepage.jpeg)
 
+# To test admin functionalities
+
+- Click admin login from the nav bar and login using the admin default username and default password
+
+- Username : admin
+
+- Password : admin
+
+# To test user functionalities
+- Click login from the nav bar and login using an existing user or sign up first if you do not have an account
