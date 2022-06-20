@@ -1,4 +1,12 @@
 # Online-Courses-Website - Coursopolis Online Center
+Coursopolis is an online training center, the website consists of:
+
+- Home
+- Login For Student/Admin
+- Courses Details
+- Instructors Details
+- Search Page
+- About
 
 # How to run
  - Install XAMPP (Apache and MySQL) to run your local database
