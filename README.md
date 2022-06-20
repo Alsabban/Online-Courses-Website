@@ -22,3 +22,6 @@
 
 # To test user functionalities
 - Click login from the nav bar and login using an existing user or sign up first if you do not have an account
+
+# Other functionalities
+- All functionalities are explained with screenshots in the project documentation attached in the repository
