@@ -7,6 +7,6 @@
  
  - Run the online_courses.sql SQL script on your phpMyAdmin to create the database
  
- - Type in any browser this URL http://localhost/>>YOUR_PATH<</index.php to start the website
+ - Type in any browser this URL http://localhost/'YOUR_PATH'/index.php to start the website
  
 
